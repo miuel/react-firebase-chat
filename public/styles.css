@@ -1,0 +1,39 @@
+.page-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 1em;
+}
+
+.row {
+  margin-bottom: 0;
+}
+
+.avatar {
+  position: relative;
+  top: 9px;
+}
+
+.navbar li {
+  margin: 0 0.5em;
+}
+
+.message-chat-list {
+  display: flex;
+  flex-direction: column;
+  margin: 1em auto;
+}
+
+.message-chat {
+  padding: 0.5em;
+  border-bottom: 1px solid #ccc;
+}
+.blue.darken-4 {
+    background-color: #253142 !important;
+}
+.blue.darken-1 {
+    background-color: #ff3815 !important;
+}
+.description{
+  margin-left: 5%;
+}
